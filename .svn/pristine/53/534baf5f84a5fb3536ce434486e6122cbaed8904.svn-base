@@ -1,0 +1,31 @@
+Readme File for Patience
+
+Autor:		Andreas Konarski
+Contact:	andreaskw@gmx.de
+		programmieren@konarski-wuppertal.de
+Licence:	GPL V3 or later
+
+Windows XP and Windows 7:
+Just extract the zip file and launch Patience.exe. Place the Patience folder where you want, but don’t change the internal structure of the folder, or the application will stop working.
+
+MacOSX 10.8 Mountain Lion:
+Just place the bundle where you want. It should solve all dependencies.
+The binaries are now 64 bit only, because 32 bit build failed with QT 4.8.0.
+
+Linux:
+You have to build the application from scratch. First install the latest version of qt4, if not already happened. Extract the sources and run qmake and make inside the folder with the sources.
+
+Other operating systems supported by qt4:
+You have to build the application from scratch. Install the latest version of qt4 if not already happened and build the application the way, it should be done on your platform.
+
+
+About the game cards:
+
+This PySol cardset was adapted from the game XSkat 4.0
+
+Copyright (C) 2004 Gunter Gerhardt (http://www.xskat.de)
+
+This cardset is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
